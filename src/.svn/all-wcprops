@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/136/trunk
+END
+ez_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/71/trunk/ez_setup.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/134/trunk/setup.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/55/trunk/README.txt
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/55/trunk/MANIFEST.in
+END

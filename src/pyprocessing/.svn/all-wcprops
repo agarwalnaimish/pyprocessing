@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/136/trunk/pyprocessing
+END
+lights.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8/trunk/pyprocessing/lights.py
+END
+primitives.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/135/trunk/pyprocessing/primitives.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/118/trunk/pyprocessing/__init__.py
+END
+colors.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/131/trunk/pyprocessing/colors.py
+END
+pimage.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/134/trunk/pyprocessing/pimage.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/96/trunk/pyprocessing/config.py
+END
+fbo.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/77/trunk/pyprocessing/fbo.py
+END
+globs.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/135/trunk/pyprocessing/globs.py
+END
+attribs.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/135/trunk/pyprocessing/attribs.py
+END
+flippolicy.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/125/trunk/pyprocessing/flippolicy.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/136/trunk/pyprocessing/constants.py
+END
+globalconfig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/82/trunk/pyprocessing/globalconfig.txt
+END
+materials.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/pyprocessing/materials.py
+END
+mathfunctions.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/100/trunk/pyprocessing/mathfunctions.py
+END
+pvector.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/136/trunk/pyprocessing/pvector.py
+END
+shapes.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/134/trunk/pyprocessing/shapes.py
+END
+fonts.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/64/trunk/pyprocessing/fonts.py
+END
+transformations.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/97/trunk/pyprocessing/transformations.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/20/trunk/examples/usage
+END
+interactioncallback.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/20/trunk/examples/usage/interactioncallback.py
+END
+animation.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/20/trunk/examples/usage/animation.py
+END
+interaction.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/20/trunk/examples/usage/interaction.py
+END
+basicusage.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/20/trunk/examples/usage/basicusage.py
+END

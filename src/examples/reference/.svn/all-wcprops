@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/116/trunk/examples/reference
+END
+curvedetail.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/examples/reference/curvedetail.py
+END
+text3.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/51/trunk/examples/reference/text3.py
+END
+loop.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/42/trunk/examples/reference/loop.py
+END
+cursor.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/24/trunk/examples/reference/cursor.py
+END
+pimageset.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/51/trunk/examples/reference/pimageset.py
+END
+curvevertex.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/examples/reference/curvevertex.py
+END
+backgroundimage.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/99/trunk/examples/reference/backgroundimage.py
+END
+colormode.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/examples/reference/colormode.py
+END
+emissive.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/examples/reference/emissive.py
+END
+filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/99/trunk/examples/reference/filter.py
+END
+line.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/examples/reference/line.py
+END
+bezierpoint.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/examples/reference/bezierpoint.py
+END
+ortho.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/42/trunk/examples/reference/ortho.py
+END
+lerpcolor.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/examples/reference/lerpcolor.py
+END
+arc.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/examples/reference/arc.py
+END
+text2.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/51/trunk/examples/reference/text2.py
+END
+resetmatrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/examples/reference/resetmatrix.py
+END
+screenx.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/42/trunk/examples/reference/screenx.py
+END
+spotlight.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/examples/reference/spotlight.py
+END
+specular.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/examples/reference/specular.py
+END
+bezier.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/examples/reference/bezier.py
+END
+blendcolor.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/examples/reference/blendcolor.py
+END
+redraw.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/42/trunk/examples/reference/redraw.py
+END
+textwidth.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/64/trunk/examples/reference/textwidth.py
+END
+directionallight.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/examples/reference/directionallight.py
+END
+modelx.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/42/trunk/examples/reference/modelx.py
+END
+box.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/examples/reference/box.py
+END
+lights.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/examples/reference/lights.py
+END
+textDescent.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/50/trunk/examples/reference/textDescent.py
+END
+sheary.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/99/trunk/examples/reference/sheary.py
+END
+rect.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/examples/reference/rect.py
+END
+curvepoint.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/examples/reference/curvepoint.py
+END
+texture.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/116/trunk/examples/reference/texture.py
+END
+createimage.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/105/trunk/examples/reference/createimage.py
+END
+mouseclicked.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/examples/reference/mouseclicked.py
+END
+ambientlight.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/examples/reference/ambientlight.py
+END
+nocursor.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24/trunk/examples/reference/nocursor.py
+END
+applymatrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/examples/reference/applymatrix.py
+END
+tint.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/examples/reference/tint.py
+END
+get.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9/trunk/examples/reference/get.py
+END
+loadimage.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/51/trunk/examples/reference/loadimage.py
+END
+mousemoved.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/examples/reference/mousemoved.py
+END
+keycode.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/examples/reference/keycode.py
+END
+curve.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/examples/reference/curve.py
+END
+text.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/examples/reference/text.py
+END
+shearx.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/99/trunk/examples/reference/shearx.py
+END
+set.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/examples/reference/set.py
+END
+ellipse.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/trunk/examples/reference/ellipse.py
+END
+save.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/trunk/examples/reference/save.py
+END
+beziertangent.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/examples/reference/beziertangent.py
+END
+shininess.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/examples/reference/shininess.py
+END
+bezierdetail.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/examples/reference/bezierdetail.py
+END
+mousedragged.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/examples/reference/mousedragged.py
+END
+exit.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/42/trunk/examples/reference/exit.py
+END
+beziervertex.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/60/trunk/examples/reference/beziervertex.py
+END
+screen.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/27/trunk/examples/reference/screen.py
+END
+pointlight.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/examples/reference/pointlight.py
+END
+textAscent.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/50/trunk/examples/reference/textAscent.py
+END
+popmatrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/examples/reference/popmatrix.py
+END
+mousebutton.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/examples/reference/mousebutton.py
+END
+sphere.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/examples/reference/sphere.py
+END
+camera.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/examples/reference/camera.py
+END
+perspective.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/42/trunk/examples/reference/perspective.py
+END
+keytyped.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/examples/reference/keytyped.py
+END
+pmousex.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/examples/reference/pmousex.py
+END
+curvetangent.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/examples/reference/curvetangent.py
+END
